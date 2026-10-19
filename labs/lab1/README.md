@@ -282,7 +282,15 @@ räknelagar, varför den aldrig påverkar lampan fast den påverkar strömmen.
 
 ---
 
-## Uppgift 9 - Extra: fler funktioner
+## Uppgift 9 - Trappomkopplare
+
+Bygg en "Trappomkopplare" med följande funktion:
+
+Växling av tillstånd för varje tryckknapp skall resultera i växling av tillstånd på lampan, dvs. 
+Är ingen knapp aktiverad & lampan lyser så skall lampan slockna om antingen S1 eller S2 aktiveras. Dessutom så skall lampan behålla samma status då bägge knapparna aktiveras samtidigt som då ingen knapp är aktiverad. 
+Rita kontaktnät, koppla & redovisa
+
+## Uppgift 10 - Extra: fler funktioner
 *Frivillig uppgift, för den som blir klar i tid.*
 
 Med två knappar finns det 16 olika funktioner, eftersom varje rad i en tabell med fyra rader kan
